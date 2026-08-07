@@ -1,6 +1,12 @@
-# 🚗 Highway Vehicle Tracking System
+<h1 align="center">
+🚗 Highway Vehicle Tracking System
+</h1>
 
-> **Real-time vehicle detection and tracking using OpenCV and Computer Vision**
+<p align="center">
+Real-time vehicle detection and tracking using OpenCV and Computer Vision
+</p>
+
+ ---
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv)
