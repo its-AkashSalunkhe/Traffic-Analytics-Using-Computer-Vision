@@ -29,19 +29,19 @@ This project showcases practical applications of Computer Vision in **Intelligen
 
 ## 🚘 Input Video
 
-> *(Add GIF or screenshot here)*
+![Watch the video](input_videos/highway.gif)
 
 ---
 
 ## 🚗 Vehicle Detection
 
-> *(Add GIF or screenshot here)*
+![Watch the video](input_videos/white_mask.gif)
 
 ---
 
 ## 🆔 Vehicle Tracking
 
-> *(Add GIF or screenshot here)*
+![Watch the video](input_videos/live_tracking.gif)
 
 ---
 
