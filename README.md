@@ -35,13 +35,13 @@ This project showcases practical applications of Computer Vision in **Intelligen
 
 ## 🚗 Vehicle Detection
 
-![Watch the video](input_videos/white_mask.gif)
+![Watch the video](output/white_mask.gif)
 
 ---
 
 ## 🆔 Vehicle Tracking
 
-![Watch the video](input_videos/live_tracking.gif)
+![Watch the video](output/live_tracking.gif)
 
 ---
 
